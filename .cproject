@@ -46,8 +46,8 @@
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler.1452408973" name="Cross ARM GNU Assembler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.assembler">
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.usepreprocessor.862196351" name="Use preprocessor" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.usepreprocessor" value="true" valueType="boolean"/>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.defs.144749348" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.assembler.defs" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="Silicon_Labs"/>
-									<listOptionValue builtIn="false" value="EFM32"/>
+									<listOptionValue builtIn="false" value="TARGET_Silicon_Labs"/>
+									<listOptionValue builtIn="false" value="TARGET_EFM32"/>
 									<listOptionValue builtIn="false" value="EFM32GG990F1024"/>
 									<listOptionValue builtIn="false" value="TARGET_M3"/>
 									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
@@ -81,8 +81,8 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/mbed/libraries/mbed/targets/hal/TARGET_Silicon_Labs/TARGET_EFM32/TARGET_EFM32GG_STK3700}&quot;"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1308354832" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs" useByScannerDiscovery="false" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="Silicon_Labs"/>
-									<listOptionValue builtIn="false" value="EFM32"/>
+									<listOptionValue builtIn="false" value="TARGET_Silicon_Labs"/>
+									<listOptionValue builtIn="false" value="TARGET_EFM32"/>
 									<listOptionValue builtIn="false" value="EFM32GG990F1024"/>
 									<listOptionValue builtIn="false" value="TARGET_M3"/>
 									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
@@ -106,8 +106,8 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/mbed/libraries/mbed/targets/hal/TARGET_Silicon_Labs/TARGET_EFM32/TARGET_EFM32GG_STK3700}&quot;"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs.1487974698" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs" useByScannerDiscovery="false" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="Silicon_Labs"/>
-									<listOptionValue builtIn="false" value="EFM32"/>
+									<listOptionValue builtIn="false" value="TARGET_Silicon_Labs"/>
+									<listOptionValue builtIn="false" value="TARGET_EFM32"/>
 									<listOptionValue builtIn="false" value="EFM32GG990F1024"/>
 									<listOptionValue builtIn="false" value="TARGET_M3"/>
 									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
